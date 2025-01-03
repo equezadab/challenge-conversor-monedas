@@ -20,3 +20,7 @@ Este es un proyecto de un Conversor de Monedas creado por Alura Latam que permit
 ## Imagen de lo solicitado:
 ![image](https://github.com/user-attachments/assets/d182d3a6-151d-45a4-8e31-9baf360bf9ad)
 
+## Imagen de la ejecución de mi proyecto en Java.
+![image](https://github.com/user-attachments/assets/e6a9b345-772f-4090-ae94-5736ffc64e75)
+![image](https://github.com/user-attachments/assets/c8bb0d5b-3c17-464c-8e47-22f21dbd69a6)
+
