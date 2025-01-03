@@ -17,6 +17,6 @@ Este es un proyecto de un Conversor de Monedas creado por Alura Latam que permit
 - Java 21: Este proyecto utiliza Java 21, por lo que necesitarás tenerlo instalado.
 - API de Exchange Rate: El proyecto hace uso de la API ExchangeRate-API para obtener las tasas de conversión. Necesitarás una API Key que debes agregar en el archivo ApiService.java.
 
-##Imagen de lo solicitado:
+## Imagen de lo solicitado:
 ![image](https://github.com/user-attachments/assets/d182d3a6-151d-45a4-8e31-9baf360bf9ad)
 
